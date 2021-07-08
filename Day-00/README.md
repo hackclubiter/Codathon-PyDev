@@ -44,3 +44,6 @@ These days most of the Linux-based systems come preloaded with Python, so in mos
 > > 4. Now you are done.
 
 > > REFERENCE VIDEO for LINUX - [Video](https://www.youtube.com/watch?v=5jrSYA_Ki00)
+
+
+#### That's complete your Day 0 of 7 Days of Python. Ready for the Day 01.
