@@ -3,9 +3,9 @@
 7 days of Python Development is a part of the part of Code Marathon organized by hack Club ITER. It is a marathon which will focus on self-learning and producing a project at the final day.
 
 ## Quick Links:
-1.
-2.
-3.
+1. [Python Documentation](https://docs.python.org/3/)
+2. [Python Basic Tutorial](https://www.w3schools.com/python/)
+3. [Python DSA](https://www.geeksforgeeks.org/tag/python-dsa-exercises/)
 
 ## About
 Welcome to this 7 days of Python Development!👋
@@ -25,13 +25,11 @@ Furthermore, there are quizzes to be conducted at the end of each day to help yo
 So see you at the end of this week. 👍
 
 ## Days-wise plan
-- Day-1 : 
-- Day-2 : 
-- Day-3 : 
-- Day-4 : 
-- Day-5 : 
-- Day-6 : 
-- Day 7 : Final Project
+- Day-0 : Installation
+- Day-1 : Print `hello world`, Data Types, Operators
+- Day-2 : Conditions & Looping
+- Day-3 : List, Dictonaries, Tuples
+
 
 ## Day-wise Plan Links
 - [Day-00](https://github.com/hackclubiter/Codathon-PyDev/blob/main/Day-00/README.md)
