@@ -13,6 +13,8 @@
 
 > Tbh, there are many IDEs for Python like PyCharm, Jupyter Notebook, VS Code. But If you will ask me, then I will prefer VS Code over others because VS Code has lot of functionalities and it is easier to use.
 
+You can watch the video for more idea: [Video](https://www.youtube.com/watch?v=eXinDi55iOk)
+
 
 ### Now you have selected your IDE, lets move to the coding part...
 
@@ -26,7 +28,6 @@
 
 > Now if you have done this now let's print the `Hello World` in Python.
 
-
 ```python
 >>> print("Hello World")
 Hello World
@@ -34,7 +35,6 @@ Hello World
 
 *It is very important to brush up the basics in every language to know the syntax of every language.*
 **Go through the resources listed below and be confident with the basics**
-
 
 ### Data Types in Python
   1. [Numbers](https://www.w3schools.com/python/python_numbers.asp)
@@ -50,4 +50,4 @@ Hello World
   6. [Bitwise Operators](https://www.tutorialsteacher.com/python/python-operators#bitwise)
 
 
-This concludes Day 01 of our 7 Days of Python Development. We have covered quite a few topics of Python today. Rest of the topics we'll cover tomorrow.
+This concludes Day 01 of our 07 Days of Python Development. We have covered quite a few topics of Python today. Rest of the topics we'll cover tomorrow.
