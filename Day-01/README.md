@@ -15,6 +15,7 @@
 
 You can watch the video for more idea: [Video](https://www.youtube.com/watch?v=eXinDi55iOk)
 
+---
 
 ### Now you have selected your IDE, lets move to the coding part...
 
@@ -36,10 +37,14 @@ Hello World
 *It is very important to brush up the basics in every language to know the syntax of every language.*
 **Go through the resources listed below and be confident with the basics**
 
+---
+
 ### Data Types in Python
   1. [Numbers](https://www.w3schools.com/python/python_numbers.asp)
   2. [Strings](https://www.w3schools.com/python/python_strings.asp)
   3. [Boolean](https://www.w3schools.com/python/python_booleans.asp)
+
+---
 
 ### Operations in Python
   1. [Arithmetic Operators](https://www.tutorialsteacher.com/python/python-operators#arithmetic)
