@@ -28,7 +28,7 @@ So see you at the end of this week. 👍
 - Day-0 : Installation
 - Day-1 : Print `hello world`, Data Types, Operators
 - Day-2 : Conditions & Looping
-- Day-3 : List, Dictonaries, Tuples
+- Day-3 : List, Dictonaries, Tuples, Sets
 
 
 ## Day-wise Plan Links
