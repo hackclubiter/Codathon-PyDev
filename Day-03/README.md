@@ -132,6 +132,8 @@ Now the last data type for today i.e. Sets
 
 You can refer to the video lecture for Sets [here](https://youtu.be/W8KRzm-HUcc)
 
+<hr>
+
 Now if you have completed the abover portion then you are more than capable of solving some problems on these topics🔥
 So now lets have a some practice on these data types.
 
