@@ -95,5 +95,50 @@ So, these are the basics of Python Methods & Functions. Read more about by the f
 
 <hr>
 
+#### More:
+
+1. [DEFINATIONS](https://www.programiz.com/python-programming/function)
+2. TYPES 
+   - [USER DEFINED](https://www.programiz.com/python-programming/user-defined-function)
+   - [BULIT IN](https://www.programiz.com/python-programming/methods/built-in)
+3. [ARGS AND KWARGS](https://www.programiz.com/python-programming/args-and-kwargs)
+4. [Lambda function](https://www.w3schools.com/python/python_lambda.asp)
+5. [Map function](https://www.geeksforgeeks.org/python-map-function/)
+6. [Filter function](https://www.geeksforgeeks.org/filter-in-python/)
+
+<hr>
+
+### Some try out questions:
+
+1. Volume of a sphere
+
+> Write out your solution by hand as an equation with an input radius, then try to convert your logic to code.
+
+2. Range check function
+
+> Keep in mind how to use the in operator and the range() function. How can you use in to check if something is in a list?
+
+3. Upper Case and Lower Case strings
+
+> Whats a good way to iterate through the string? A for loop perhaps? How can you keep track of you counts? A variable or maybe even a dictionary with a key for upper and a key for lower, then add counts to the value corresponding to the correct key.
+
+4. Unique numbers in list.
+
+> Try using set() or even just using a for loop with a list and append numbers that you haven't already seen
+
+5. Multiply all numbers in a list
+
+> Use a for loop to go through the list and take advantage of *= which operate similarly to +=.
+
+6. Palindrome check
+
+> Remember what s[::-1] does if s is a string, or find a built-in way to reverse a string (function or method)
+
+7. Pangram check
+
+> This is really tricky, but try using set() and feel free to check the answer for this one!
+
+<hr>
+
 We are done with the 4th day of our 7 days of challenge. Hope you all are enjoying and don't forget to learn more and practice.
 
