@@ -21,7 +21,7 @@ Let's read it properly and understand it in a more depth.
 - [How to read in file?](https://www.geeksforgeeks.org/how-to-read-from-a-file-in-python/)
 
 
-- [How to read in file?](https://www.geeksforgeeks.org/writing-to-file-in-python/)
+- [How to write in file?](https://www.geeksforgeeks.org/writing-to-file-in-python/)
 
 > [*Video -  Both*](https://www.youtube.com/watch?v=Uh2ebFW8OYM)
 
