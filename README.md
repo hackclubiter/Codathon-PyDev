@@ -40,6 +40,7 @@ So see you at the end of this week. 👍
 - [Day-04](https://github.com/hackclubiter/Codathon-PyDev/blob/main/Day-04/README.md)
 - [Day-05](https://github.com/hackclubiter/Codathon-PyDev/blob/main/Day-05/README.md)
 - [Day-06](https://github.com/hackclubiter/Codathon-PyDev/blob/main/Day-06/README.md)
+- Project
 
 ## Coordinators
 1. Saswat Samal
