@@ -8,21 +8,21 @@
 3. [Python DSA](https://www.geeksforgeeks.org/tag/python-dsa-exercises/)
 
 ## About
-Welcome to this 7 days of Python Development!👋
+Welcome to the 7-DAYS CHALLENGE OF PYTHON DEVELOPMENT!👋
 
-It is an initiative for people to learn how to learn python, irrespective of their current level of expertise. ✌ 
+An initiative to make students get hands-on with PYTHIN- which is one of the emerging languages in the tech-domain; irrespective of their expertise level they can get through this challenge. ✌ 
 
-The main objective behind this program is to provide you with access to top-notch content at zero cost. ✨
+The main objective of conducting this challenge is to make you avaliable and get friendly with the language along with providing you top-notch resources!✨
 
 It'll be a week long intensive and hardcore learning marathon. 
 
-We have designed beginner-friendly lessons covering the Python. The topics have been distributed over the course of 6 days. 
+We have designed beginner-friendly lessons covering the basics of Python. The topics have been distributed over the course of 6 days. 
 
-And then for the last and final day of this event, all the participants will have to submit a project which they must make within that week only. No previously prepared project will be accepted. 
+The last day then comes-up with the participants giving out projects which they have to make out of what they learnt from 6-days long challenge. It is mandatory for them to submit a self-made, fresh project and no previous projects shall be entertained.  
 
 Furthermore, there are quizzes to be conducted at the end of each day to help you sharpen your basics in a fun and riveting way. 💛
 
-So see you at the end of this week. 👍
+So, see you at the end of this week. 👍
 
 ## Days-wise plan
 - Day-0 : Installation
